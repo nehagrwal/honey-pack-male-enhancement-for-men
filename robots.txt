@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/honey-pack-male-enhancement-for-men/sitemap.xml
+Sitemap: https://honey-pack-male-enhancement-for-men.vercel.app/sitemap-vercel.xml
+Sitemap: https://honey-pack-male-enhancement-for-men.pages.dev/sitemap-cloudflare.xml
